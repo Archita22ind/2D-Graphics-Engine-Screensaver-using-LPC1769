@@ -1,0 +1,16 @@
+drawSquareAndTree.c:73:6:spiwrite	24	static
+drawSquareAndTree.c:85:6:writecommand	16	static
+drawSquareAndTree.c:93:6:writedata	16	static
+drawSquareAndTree.c:100:6:writeword	24	static
+drawSquareAndTree.c:111:6:write888	24	static
+drawSquareAndTree.c:127:6:setAddrWindow	24	static
+drawSquareAndTree.c:138:6:fillrect	32	static
+drawSquareAndTree.c:151:6:lcddelay	24	static
+drawSquareAndTree.c:161:6:lcd_init	16	static
+drawSquareAndTree.c:201:6:drawPixel	16	static
+drawSquareAndTree.c:213:6:drawLine	40	static
+drawSquareAndTree.c:259:6:drawSquare	64	static
+drawSquareAndTree.c:313:14:RotateBranches	256	static
+drawSquareAndTree.c:376:14:branchTip	48	static
+drawSquareAndTree.c:396:6:drawTree	80	dynamic
+drawSquareAndTree.c:473:5:main	136	static

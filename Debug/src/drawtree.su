@@ -1,0 +1,16 @@
+drawtree.c:78:6:spiwrite	24	static
+drawtree.c:96:6:writecommand	16	static
+drawtree.c:108:6:writedata	16	static
+drawtree.c:120:6:writeword	24	static
+drawtree.c:138:6:write888	24	static
+drawtree.c:166:6:setAddrWindow	24	static
+drawtree.c:185:6:fillrect	32	static
+drawtree.c:207:6:lcddelay	24	static
+drawtree.c:221:6:lcd_init	16	static
+drawtree.c:265:6:drawPixel	16	static
+drawtree.c:299:6:drawLine	40	static
+drawtree.c:371:14:RotateFromZero	48	static
+drawtree.c:382:14:Rotate	256	static
+drawtree.c:445:14:branchPoint	48	static
+drawtree.c:459:6:drawTree	64	dynamic
+drawtree.c:498:5:main	40	static

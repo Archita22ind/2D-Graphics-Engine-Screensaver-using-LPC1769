@@ -35,7 +35,7 @@ Both the screen savers have been created using 2D graphic engine design and the 
 
 Final Screen saver of Squares:
 
-![](/images/SquareScreensaver.jpg = 100X100)
+![](/images/SquareScreensaver.jpg | width =100px)
 
 Final Forest Screen saver created:
 

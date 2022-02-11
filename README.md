@@ -35,7 +35,9 @@ Both the screen savers have been created using 2D graphic engine design and the 
 
 Final Screen saver of Squares:
 
-![](/images/SquareScreensaver.jpg | width =100px)
+<!-- ![](/images/SquareScreensaver.jpg) -->
+
+<img src="https://github.com/Archita22ind/2D-Graphics-Engine-Screensaver-using-LPC1769/blob/main/images/SquareScreensaver.jpg" width=50% height=50%>
 
 Final Forest Screen saver created:
 

@@ -2,9 +2,6 @@
 
 In this project I have designed and built a system that displays a screen saver and forest on 1.8 inches diagonal LCD TFT display (128x160 resolution, 18-bit (262,144) color). The LPC1769 uses its SPI Interface to connect with the LCD.It has the MISO, MOSI and the SCK options and therefore is used as a master to interface with a SPI Flash which forms the slave peripheral.
 
-## Demo
-
-<img src="/images/demo.gif?raw=true" width="1000px">
 
 ## Hardware Design
 
